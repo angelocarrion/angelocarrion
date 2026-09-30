@@ -18,4 +18,4 @@ I'm currently focused on building projects outside of the classroom, strengtheni
 
 ## Let's Connect
 
-[LinkedIn](www.linkedin.com/in/angelo-carrion-3562422a1)
+[LinkedIn](https://www.linkedin.com/in/angelo-carrion-3562422a1)
