@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Angelo
 
-<!--
-**angelocarrion/angelocarrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Florida International University, graduating Spring 2027 and interested in software engineering and full-stack development.
 
-Here are some ideas to get you started:
+I'm currently focused on building projects outside of the classroom, strengthening my development skills, and getting more experience working with full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+
+**ITOps** - An internal IT ticket and asset management system inspired by my experience working in IT support.
+
+## Technologies
+
+**Languages:** Java, TypeScript, JavaScript, SQL, C  
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express  
+**Database:** SQLite  
+**Tools:** Git, GitHub, VS Code, Codex
+
+## Let's Connect
+
+[LinkedIn](www.linkedin.com/in/angelo-carrion-3562422a1)
